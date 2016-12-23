@@ -1,2 +1,5 @@
 # multi-language-ass
-Creates one ass with 2 languages combined from single ass files
+Merges two [ASS subtitle files](https://www.matroska.org/technical/specs/subtitles/ssa.html) with different languages into a combined ASS file so you can have 2 sets of subtitles on your film at once.
+
+One language is displayed at the bottom and one on the top as defined by styles
+in the ASS file.
