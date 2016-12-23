@@ -1,0 +1,20 @@
+{
+  "name": "multi-language-ass",
+  "version": "0.0.1",
+  "description": "Creates one ass with 2 languages combined from single ass files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ass",
+    "subtitles",
+    "films"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "ass-parser": "^0.1.1",
+    "ass-stringify": "^0.1.3"
+  }
+}
