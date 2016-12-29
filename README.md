@@ -8,3 +8,10 @@ One language is displayed at the bottom and one on the top as defined by the Ali
 npm install
 node index.js subs-en.ass subs-vi.ass > subs-combined.ass
 ```
+
+## Convert SRT to ASS
+TODO: integrate a converter so this happens automatically for input files.
+
+However for now an easy way to convert is with ffmpeg. For example:
+
+ffmpeg -i film_en.srt film_jp.ass
