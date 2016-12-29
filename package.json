@@ -2,9 +2,9 @@
   "name": "multi-language-ass",
   "version": "0.0.1",
   "description": "Creates one ass with 2 languages combined from single ass files",
-  "main": "index.js",
+  "main": "src/combine.js",
   "bin" : {
-      "multiass" : "./index.js"
+      "multiass" : "bin/multiass.js"
   },
   "scripts": {
     "test": "mocha"

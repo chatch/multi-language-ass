@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict'
 
 const combine = require('./lib/combine')
