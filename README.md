@@ -5,8 +5,8 @@ One language is displayed at the bottom and one on the top as defined by the Ali
 
 ## Quick start
 ```
-npm install
-node index.js subs-en.ass subs-vi.ass > subs-combined.ass
+sudo npm i -g multi-language-ass
+multiass subs-en.ass subs-vi.ass > subs-combined.ass
 ```
 
 ## Convert SRT to ASS

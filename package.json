@@ -1,6 +1,6 @@
 {
   "name": "multi-language-ass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Creates one ass with 2 languages combined from single ass files",
   "main": "src/combine.js",
   "bin" : {
